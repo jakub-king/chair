@@ -1,1 +1,2 @@
-# chair
+#chair
+Projekt z wasztatów **CodersLab**
